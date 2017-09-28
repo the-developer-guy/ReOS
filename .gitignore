@@ -1,3 +1,9 @@
+# Built files
+*.o
+*.axf
+*.dbg
+
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
